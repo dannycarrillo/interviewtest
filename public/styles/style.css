@@ -1,0 +1,20 @@
+/* 
+    Created on : Oct 9, 2015, 1:31:25 PM
+    Author     : Danny
+*/
+
+#ownform {
+    width:20%;
+    margin: 50px auto;
+    border: 2px lightgrey solid;
+    padding:20px;
+    border-radius: 10px;
+}
+
+.red {
+    color:red;
+}
+
+.red:hover {
+    color:grey;
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "_token": "dBTGQOfYTKoTvwjKJCldU2MQU8e0jZMrAy9QXn0f",
+        "description": "Mouse",
+        "quantity": "100",
+        "price_per": "1.50",
+        "date": "2015-11-06 03:12:12"
+    },
+    {
+        "_token": "dBTGQOfYTKoTvwjKJCldU2MQU8e0jZMrAy9QXn0f",
+        "description": "Keyboard",
+        "quantity": "50",
+        "price_per": "2",
+        "date": "2015-11-06 03:12:41"
+    }
+]
